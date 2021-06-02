@@ -33,7 +33,7 @@ Ordered list:
 2. Two
 3. Three
 
-A link looks like [hyper link text] (https://clamb89.github.io/goblinknob/). *This is italics*. **This is BOLD** 
+A link looks like [hyper link text](https://clamb89.github.io/goblinknob/). *This is italics*. **This is BOLD** 
 {:.text-right}
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
