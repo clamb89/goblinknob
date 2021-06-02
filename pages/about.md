@@ -12,7 +12,26 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+# Header One
+
+A new paragraph here.
+It continues here. 
+
 ## About the Collection
+
+List:
+
+- One
+- Two
+- Three
+
+Ordered list:
+
+1. One
+2. Two
+3. Three
+
+A link looks like [hyper link text] (https://clamb89.github.io/goblinknob/). *This is italics*. **This is BOLD** 
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
