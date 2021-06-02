@@ -17,6 +17,8 @@ credits: true
 [Goblin Knob](https://www.google.com/maps/place/Goblin+Knob/@48.6702031,-116.7674466,14z/data=!3m1!4b1!4m5!3m4!1s0x5363a4ca118855e5:0xc2e68276d756d2b5!8m2!3d48.670205!4d-116.749937) is a mountain in North Idaho. It is part of the larger South Selkirk Mountain Range which extends into southern BC. 
 Goblin Knob Looking is a sample of trail camera footage recorded between March and June of 2021, and it is part of a larger collection known as [Storying Extinction](https://storying.onrender.com/about.html). 
 
+{% include feature/figure.html objectid="coll024" %}
+
 ## About the Collection
 
 List:
