@@ -25,11 +25,15 @@ Goblin Knob Looking is a sample of trail camera footage recorded between March a
 
 ## About the Collection
 
-List:
+As part of the larger project of Storying Extinction, the media included here is in large part an attempt to capture the winter habitat of South Selkirk mountain caribou. These images and videos were captured during the late winter months, and some of them are located in the higher-elevation engleman spruce/subalpine fir forest--a primary winter location for mountain caribou. Because of the season, the footage here is limited. Few critters make it to higher elevations until the snow has melted.  
 
-- One
-- Two
-- Three
+What you might see:
+
+- Deer
+- Trees and lichen in the wind
+- Hikers
+- Birds
+- Snow
 
 Ordered list:
 
