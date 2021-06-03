@@ -21,7 +21,7 @@ Goblin Knob Looking is a sample of trail camera footage recorded between March a
 
 
 
-{% include feature/map-small.html mapid="first" filter="item.location contains '535 Outcropping'" zoom="16" latitude="48.670743" longitude="-116.751042" basemap="Esri_WorldImagery" align="right" %}
+{% include feature/map-small.html mapid="first" filter="item.location contains 'coll001'" zoom="16" latitude="48.670743" longitude="-116.751042" basemap="Esri_WorldImagery" align="right" %}
 
 ## About the Collection
 
