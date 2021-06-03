@@ -33,11 +33,13 @@ What you might see:
 - Birds
 - Snow
 
-Ordered list:
+### What is Storying Extinction?
 
-1. One
-2. Two
-3. Three
+*Storying Extinction: Responding to the Loss of North Idaho’s Mountain Caribou* is a multidisciplinary digital humanities project aimed at representing community response to the recent extirpation (2019) of mountain caribou from the South Selkirk mountains of North Idaho—the last caribou to inhabit the coterminous United States. The collection takes the form of a deep map, or multimodal spatial narrative, and is comprised of trail camera footage from former caribou habitat and oral histories from locals who encountered caribou in the wild prior to their extirpation. 
+
+Learn more about the project: {% include feature/button.html text="Button Link to Somewhere" link="https://cdil.lib.uidaho.edu/storying-extinction/about.html" color="success" %}
+
+
 
 A link looks like [hyper link text](https://clamb89.github.io/goblinknob/). *This is italics*. **This is BOLD** 
 {:.text-right}
