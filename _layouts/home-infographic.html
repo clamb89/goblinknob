@@ -4,15 +4,13 @@ custom-foot: js/carousel-js.html
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-10">
+  <div class="col-md-6">
 
   {% include index/description.html %}
   {% include index/carousel.html %}
   
   </div>
-  <div class="col-md-6">  
-
-    {% include index/time.html %}
+  <div class="col-md-2">  
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" featured=site.data.theme.featured-subjects max=site.data.theme.featured-subjects-max %}
 
