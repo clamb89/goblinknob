@@ -20,12 +20,12 @@ source-code: https://github.com/clamb89/goblinknob
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Goblin Knob Looking
+title: Goblin Knob, Looking
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: It's wild up there
+tagline: It's wild up there...
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a collection of trail cam footage from caribou country"
+description: This is a collection of trail cam footage from caribou country, where Dave Bosewell once pursued an encounter with the face of God, and where the lonely, lichen-limbed trees stir the winds of absence, longing, and desire
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: clamb89
 

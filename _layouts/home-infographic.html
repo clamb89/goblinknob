@@ -4,17 +4,14 @@ custom-foot: js/carousel-js.html
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-10">
+  <div class="col-md-12">
 
   {% include index/description.html %}
   {% include index/carousel.html %}
   
   </div>
-  <div class="col-md-4">  
+  <div class="col-md-12">  
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="info" featured=site.data.theme.featured-subjects max=site.data.theme.featured-subjects-max %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" featured=site.data.theme.featured-locations max=site.data.theme.featured-locations-max %}
 
     {% include index/objects.html %}
 
@@ -24,4 +21,12 @@ custom-foot: js/carousel-js.html
     {% include index/data-download.html %}
 
   </div>
+</div>
+
+</div>
+<div class="col-md-12">
+
+  {% include feature/timelinejs.html %}
+
+</div>
 </div>
